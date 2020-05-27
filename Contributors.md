@@ -44,6 +44,7 @@ Manisha Agrawal
 Vikas Chaubey  
 Deepak Rawat  
 Shipra Saxena  
+Shashank Rajput
 
 ---------------------------------
 Contributors (Industry)
